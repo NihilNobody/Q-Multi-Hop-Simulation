@@ -5,8 +5,12 @@ CPUD Cross-System Portfolio
 This repository provides a concise, self-contained evaluation portfolio demonstrating reproducible CPUD-based metrics across representative quantum and biological systems.
  It includes system-level fidelity trends, ΔPurity evolution, exponential decay fits, a multi-system taxonomy matrix, and a cross-domain comparison of CPUD vs tomography behavior.
  No simulation code, derivations, or internal mechanics are included by design.
+
+
 Contents:
+
 This repository contains the following:
+
 Portfolio PDF
 
 
